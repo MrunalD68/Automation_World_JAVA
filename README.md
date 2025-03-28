@@ -6,7 +6,7 @@ Programming Languages: Java
 
 Testing Frameworks:Selenium
 
-Tools: Jenkins
+Tools: Intellij
 
 📂 Projects:
 
