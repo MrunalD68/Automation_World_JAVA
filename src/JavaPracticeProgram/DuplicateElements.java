@@ -1,5 +1,8 @@
 package JavaPracticeProgram;
 
+//Write a Java program to find duplicate elements in an array.
+
+
 import java.util.HashSet;
 
 public class DuplicateElements {
