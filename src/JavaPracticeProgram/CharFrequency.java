@@ -1,3 +1,5 @@
+//Write a Java program to count the occurrence of each character in a string.
+
 import java.util.HashMap;
 import java.util.Map;
 
