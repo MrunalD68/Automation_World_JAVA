@@ -36,3 +36,29 @@ public class CharFrequency {
         }
     }
 }
+/*Explanation
+        Input
+We define a string, for example: "hello world"
+
+Use a HashMap
+
+We create a HashMap<Character, Integer> to store each character and its count.
+
+The key is the character, and the value is the number of times it appears.
+
+Loop Through Characters
+
+Convert the string to a character array using str.toCharArray().
+
+For each character c:
+
+If c is a space, skip it.
+
+If c already exists in the map, increment its count.
+
+        Otherwise, add c with count 1.
+
+Output the Results
+
+We loop through the map and print each character and its frequency.*/
+
